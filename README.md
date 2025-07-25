@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-black?style=plastic&logo=pytorch)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=plastic&logo=mathworks&logoColor=white) ![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-%23ed1c24.svg?style=plastic&logo=solidworks&logoColor=white)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=prakashrai26&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
